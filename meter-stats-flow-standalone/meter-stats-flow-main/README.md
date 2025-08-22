@@ -1,7 +1,7 @@
 # Meter Stats Flow (Standalone)
 
 A standalone React + Vite + TypeScript dashboard for visualizing smart-meter statistics (mock data).  
-This version is **fully independent** – no Lovable tooling, links, or plugins.
+This version is **fully independent** 
 
 ## Run locally
 ```bash
